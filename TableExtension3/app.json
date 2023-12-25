@@ -1,0 +1,39 @@
+{
+  "id": "833ad69d-ea34-41ae-b435-02cbce944a7d",
+  "name": "BC22TableExtensionTest3",
+  "publisher": "javi.salamanca",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "This app shows how is the performance for BC22 for extended tables.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "b4be88fe-d7bb-420f-a0c8-416e091428f4",
+      "name": "BC22TableExtensionTest",
+      "publisher": "javi.salamanca",
+      "version": "1.0.0.0"
+    } 
+  ],
+  "screenshots": [],
+  "application": "22.4.59114.59535",
+  "platform": "22.0.59520.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50110
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "9.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
